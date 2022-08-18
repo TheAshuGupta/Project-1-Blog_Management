@@ -1,0 +1,25 @@
+{
+  "name": "project-1-blog_management",
+  "version": "1.0.0",
+  "description": "\"A BLOG MANAGEMENT APPLICATION\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAshuGupta/Project-1-Blog_Management.git"
+  },
+  "author": "\"Ashutosh Gupta\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheAshuGupta/Project-1-Blog_Management/issues"
+  },
+  "homepage": "https://github.com/TheAshuGupta/Project-1-Blog_Management#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.19"
+  }
+}
